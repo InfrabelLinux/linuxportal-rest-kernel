@@ -17,7 +17,7 @@ setup(
         'lp_api_kernel',
         'werkzeug'
     ],
-    url='https://git.msnet.railb.be/linux-infrastructure/lp-rest-kernel',
+    url='https://github.com/InfrabelLinux/linuxportal-rest-kernel',
     license='Apache',
     description='Basic REST kernel.'
 )
