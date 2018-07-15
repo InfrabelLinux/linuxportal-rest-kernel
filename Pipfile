@@ -1,0 +1,7 @@
+[packages]
+requests = "*"
+Flask = "*"
+urllib3 = "*"
+redis = "*"
+Werkzeug = "*"
+lp_api_kernel = "*"
